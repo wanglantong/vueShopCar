@@ -349,7 +349,10 @@ body{
 		width: 100%;
 	    margin: 1em 0 0.5em;
 	}
-	#section2 hr,#section4 hr,#section3 > hr,#section5 hr,#section6 hr {
+	#section2 h2{
+		padding: 50px 0 0;
+	}
+	#section4 hr,#section3 > hr,#section5 hr,#section6 hr {
 	    margin: 0 auto 10px;
 	}
 	#section4 > h2,#section3 > h2,#section5 > h2 ,#section6 > h2{
