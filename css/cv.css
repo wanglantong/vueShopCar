@@ -333,6 +333,7 @@ body{
 		height:30px;
 	}
 	.mobileNav {
+	    display:block;
 	    height: 100%;
 	    line-height: 30px;
 	    position: relative;
