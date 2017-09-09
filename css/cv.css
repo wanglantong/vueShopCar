@@ -325,6 +325,18 @@ body{
 	}
 	.mobileNav > img{
 		float: right;
+		height: 30px;
+                width: 30px;
+		 top: 0;
+	}
+	#navBar{
+		height:30px;
+	}
+	.mobileNav {
+	    display: none;
+	    height: 100%;
+	    line-height: 30px;
+	    position: relative;
 	}
 	.mobileMenu{
 	    background: #4c657d;
